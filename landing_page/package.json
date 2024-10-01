@@ -1,0 +1,7 @@
+{
+  "name": "medicallab",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve ."
+  }
+}
