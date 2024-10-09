@@ -1,35 +1,8 @@
-# Аналіз існуючих систем
+# Initial Study and Research
 
-- Synevo:
-Послуги: широкий спектр лабораторних досліджень.
-Функції: онлайн-система для запису на аналізи, перегляд результатів, сповіщення.
-- Dila:
-Послуги: аналогічні до Synevo, додатково - консультації лікарів.
-Функції: збереження історії хвороби, інтеграція з медичними системами.
-- MedLab:
-Послуги: лабораторні дослідження, спеціалізовані тести.
-Функції: онлайн-запис, перегляд результатів, сповіщення, консультації.
-
-## Функціонал, який буде реалізовано в нашій системі
-
-Основні функції:
-Онлайн-запис на аналізи.
-Перегляд результатів аналізів.
-Система сповіщень (нагадування про аналізи, готовність результатів).
-Інтеграція з медичними системами.
-Консультації лікарів онлайн.
-Додаткові функції:
-Історія хвороби пацієнта.
-Розширені звіти для адміністрації.
-
-## Завдання для реалізації
-
-Розробка бази даних:
-Зберігання інформації про пацієнтів, аналізи, результати.
-Розробка інтерфейсу:
-Інтерфейс для пацієнтів.
-Інтерфейс для адміністрації.
-Створення API:
-Для інтеграції з іншими медичними системами.
-Безпека даних:
-Захист особистих даних пацієнтів.
+Existing Systems
+OpenMRS: An open-source project aimed at creating a shared medical record system.
+HospitalRun: Designed specifically for developing world healthcare, with offline-first capabilities.
+Care2x: Integrates hospital information, practices, and processes into one solution.
+Functionality Analysis
+Existing systems typically offer functionalities such as patient management, appointment scheduling, billing, medical records, and reporting. Our system will have a similar core, focusing on admin, doctor, and patient roles with specific capabilities.
